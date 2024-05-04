@@ -1,0 +1,41 @@
+.backgroundimage{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 22)),  url(../assets/asset\ 7.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+.image2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/asset\ 1.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image3{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../assets/asset\ 2.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image4{
+    background-image: url(../assets/asset\ 3.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image5{
+    background-image: url(../assets/asset\ 4.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image6{
+    background-image: url(../assets/asset\ 5.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image7{
+    background-image: url(../assets/asset\ 6.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
